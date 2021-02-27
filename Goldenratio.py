@@ -1,6 +1,7 @@
 """
 Fibonacci squares and spirals by the use of artist, by Jacob Møller
 http://matplotlib.org/examples/shapes_and_collections/artist_reference.html
+source, http://junilyd.github.io/blog/2014/08/13/fibonacci-mystery-pythonified/
 """
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy 
